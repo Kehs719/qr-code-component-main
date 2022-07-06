@@ -38,7 +38,7 @@ body{
 }
 .text p{
     font-weight: 400;
-    margin-top: 10px;
+    margin-top: 6px;
     width:100%;
     letter-spacing: 0.01em;
     color:var(--grayish-blue);
