@@ -23,7 +23,7 @@ body{
     height:497px;
     padding:16px;
     background-color: var(--white);
-    border-radius: 12px;
+    border-radius: 15px;
     text-align: center;
     box-shadow: 0px 18px 21px -1px rgba(0,0,0,0.1)
 }
